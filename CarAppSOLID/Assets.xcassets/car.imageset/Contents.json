@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "rotate_0_heighten_670_q90_139971_502b1ddd26.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

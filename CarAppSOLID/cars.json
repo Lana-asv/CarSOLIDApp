@@ -1,0 +1,112 @@
+{
+    "BMW": [
+        {
+            "body": "hatchback",
+            "image": "BMWHatchback",
+            "price": "1 500 000 р.",
+        },
+        {
+            "body": "sedan",
+            "image": "car",
+            "price": "3 500 000 р.",
+        },
+        {
+            "body": "crossover",
+            "image": "BMWCrossover",
+            "price": "4 600 000 р.",
+        },
+        {
+            "body": "minivan",
+            "image": "BMWMinivan",
+            "price": "2 500 000 р.",
+        },
+    ],
+    "AUDI": [
+        {
+            "body": "hatchback",
+            "image": "AUDIHatchback",
+            "price": "5 600 000 р.",
+        },
+        {
+            "body": "sedan",
+            "image": "AUDISedan",
+            "price": "2 800 000 р.",
+        },
+        {
+            "body": "crossover",
+            "image": "AUDICrossover",
+            "price": "4 300 000 р.",
+        },
+        {
+            "body": "minivan",
+            "image": "AUDIMinivan",
+            "price": "2 450 000 р.",
+        },
+    ],
+    "MAZDA": [
+        {
+            "body": "hatchback",
+            "image": "MAZDAHatchback",
+            "price": "900 000 р.",
+        },
+        {
+            "body": "sedan",
+            "image": "MAZDASedan",
+            "price": "1 300 000 р.",
+        },
+        {
+            "body": "crossover",
+            "image": "MAZDACrossover",
+            "price": "2 480 000 р.",
+        },
+        {
+            "body": "minivan",
+            "image": "MAZDAMinivan",
+            "price": "1 890 000 р.",
+        },
+    ],
+    "FORD": [
+        {
+            "body": "hatchback",
+            "image": "FORDHatchback",
+            "price": "1 190 000 р.",
+        },
+        {
+            "body": "sedan",
+            "image": "FORDSedan",
+            "price": "1 810 000 р.",
+        },
+        {
+            "body": "crossover",
+            "image": "FORDCrossover",
+            "price": "2 490 000 р.",
+        },
+        {
+            "body": "minivan",
+            "image": "FORDMinivan",
+            "price": "3 340 000 р.",
+        },
+    ], 
+    "OPEL": [
+        {
+            "body": "hatchback",
+            "image": "OPELHatchback",
+            "price": "965 000 р.",
+        },
+        {
+            "body": "sedan",
+            "image": "OPELSedan",
+            "price": "1 520 000 р.",
+        },
+        {
+            "body": "crossover",
+            "image": "OPELCrossover",
+            "price": "2 180 000 р.",
+        },
+        {
+            "body": "minivan",
+            "image": "OPELMinivan",
+            "price": "1 870 000 р.",
+        },
+    ]
+}
